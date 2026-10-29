@@ -1,51 +1,25 @@
-# Hey, I'm Kevin Gabeci
+# Hey, I'm Kevin
 
-**Software Engineer** focused on backend systems and full-stack development. Started with a C# desktop app, now building AI platforms and payment infrastructure in startup environments. Strong backend foundation with an eye for clean design.
+Software engineer from Tirana, Albania. I build products, run AI models locally, and take things apart to see how they work.
 
-## Tech Stack
+**Right now**
+- Testing local AI models on my Mac and writing up what actually holds up
+- Building and running my own SaaS products
+- Making videos about all of it on [Kevin Gabeci Labs](https://www.youtube.com/@kevingabecilabs)
 
-<p align="center">
+**Stack**
+
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,django,go,cs,typescript,react,astro,postgres,docker&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=python,django,postgres,react,ts,go,docker,kubernetes&theme=dark" />
   </a>
 </p>
 
-## Featured Project
+**Open source**
+- [astro-seo-blog-template](https://github.com/kevingabeci/astro-seo-blog-template), an SEO-ready Astro blog starter
 
-### [Apatero](https://apatero.com) - AI Content Generation Platform
+**Find me**
 
-Co-founded and built an AI generation platform for images, videos, audio, and 3D content through a token-based subscription system.
+[kevingabeci.com](https://kevingabeci.com) · [X](https://x.com/gabeciii) · [YouTube](https://www.youtube.com/@kevingabecilabs) · [Medium](https://medium.com/@kgabeci) · [LinkedIn](https://www.linkedin.com/in/kevin-gabeci)
 
-**Technical highlights:**
-- Integrated 61+ AI models including custom fine-tuned models, LoRAs, and proprietary ComfyUI workflows
-- Built custom USDT TRC-20 crypto payment system with subscription hash matching
-- Designed token-based pricing architecture with 4 subscription tiers and 8 credit pack options
-- Implemented gamification system: daily streaks, spin wheel, 50+ achievements, weekly leaderboards
-- Created 4-tier affiliate program with automatic upgrades and commission tracking (15-30%)
-- Built social layer: public profiles, user feeds, follows, community gallery with likes/favorites
-- Real-time WebSocket notifications and comprehensive admin analytics dashboard
-- Security: 2FA, attack-blocking middleware, content reporting system
-
-**Stack:** React, Django, PostgreSQL, Celery, Redis, Cloudflare R2, WebSockets
-
-## Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kevin-gabeci/">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.kevingabeci.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:kgabeci@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kevingabeci&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views">
-</p>
+Always learning. Always improving.
