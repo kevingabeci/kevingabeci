@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Krea 2 LoRAs Explained. Train on RAW, Create With Turbo.](https://medium.com/futura-creative/krea-2-loras-explained-train-on-raw-create-with-turbo-77db7c520851?source=rss-eafd2a4eaa8d------2)
 - [Django Signals Are Not a Workflow Engine](https://medium.com/futura-creative/django-signals-are-not-a-workflow-engine-ce7a25a1c8b4?source=rss-eafd2a4eaa8d------2)
 - [I’m Turning a Finished Novel Into 30 Narrated Video Episodes With Code](https://medium.com/futura-creative/im-turning-a-finished-novel-into-30-narrated-video-episodes-with-code-43c76eabd193?source=rss-eafd2a4eaa8d------2)
 - [Idempotency Is the Word That Saves Your Side Project at 3 AM](https://medium.com/futura-creative/idempotency-is-the-word-that-saves-your-side-project-at-3-am-13227b6aa425?source=rss-eafd2a4eaa8d------2)
 - [Learning German for a Real Exam, 30 Minutes a Day](https://medium.com/the-take-off/learning-german-for-a-real-exam-30-minutes-a-day-1cad898aaed9?source=rss-eafd2a4eaa8d------2)
-- [I Let My AI Assistant Decide After Two Hours of Silence](https://medium.com/futura-creative/i-let-my-ai-assistant-decide-after-two-hours-of-silence-210b6d38dbd3?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
