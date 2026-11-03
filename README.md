@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Your AI Coding Tools Were the Target in October](https://kgabeci.medium.com/your-ai-coding-tools-were-the-target-in-october-16b1b38024a2?source=rss-eafd2a4eaa8d------2)
 - [9 Free Security Tools Every Solo Developer Should Run](https://medium.com/futura-creative/9-free-security-tools-every-solo-developer-should-run-40c2db50953b?source=rss-eafd2a4eaa8d------2)
 - [The $6.3 Billion Binance Hack Was Never About One Laptop](https://medium.com/futura-creative/the-6-3-billion-binance-hack-was-never-about-one-laptop-2e3baa0200d8?source=rss-eafd2a4eaa8d------2)
 - [Krea 2 LoRAs Explained. Train on RAW, Create With Turbo.](https://medium.com/futura-creative/krea-2-loras-explained-train-on-raw-create-with-turbo-77db7c520851?source=rss-eafd2a4eaa8d------2)
 - [Django Signals Are Not a Workflow Engine](https://medium.com/futura-creative/django-signals-are-not-a-workflow-engine-ce7a25a1c8b4?source=rss-eafd2a4eaa8d------2)
-- [I’m Turning a Finished Novel Into 30 Narrated Video Episodes With Code](https://medium.com/futura-creative/im-turning-a-finished-novel-into-30-narrated-video-episodes-with-code-43c76eabd193?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
