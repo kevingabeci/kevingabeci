@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Open Source Didn’t Make VLC Slow. Windows Did.](https://medium.com/futura-creative/open-source-didnt-make-vlc-slow-windows-did-54ac40e67df9?source=rss-eafd2a4eaa8d------2)
 - [How to Give Your Phone a US Address With a $4 Server](https://medium.com/futura-creative/how-to-give-your-phone-a-us-address-with-a-4-server-7c26015f89c2?source=rss-eafd2a4eaa8d------2)
 - [How I Turn Plain JavaScript Into Finished MP4 Videos](https://medium.com/futura-creative/how-i-turn-plain-javascript-into-finished-mp4-videos-d6a88bc6049d?source=rss-eafd2a4eaa8d------2)
 - [Your AI Coding Tools Were the Target in October](https://kgabeci.medium.com/your-ai-coding-tools-were-the-target-in-october-16b1b38024a2?source=rss-eafd2a4eaa8d------2)
 - [9 Free Security Tools Every Solo Developer Should Run](https://medium.com/futura-creative/9-free-security-tools-every-solo-developer-should-run-40c2db50953b?source=rss-eafd2a4eaa8d------2)
-- [The $6.3 Billion Binance Hack Was Never About One Laptop](https://medium.com/futura-creative/the-6-3-billion-binance-hack-was-never-about-one-laptop-2e3baa0200d8?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
