@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Found the PHP Bug That Took Governments Offline](https://medium.com/futura-creative/ai-found-the-php-bug-that-took-governments-offline-712c6e2becbb?source=rss-eafd2a4eaa8d------2)
 - [Claude Code’s “Don’t Ask Again” Saved Passwords in 1,122 Public Repos](https://medium.com/futura-creative/claude-codes-don-t-ask-again-saved-passwords-in-1-122-public-repos-ea72cc4b2ab3?source=rss-eafd2a4eaa8d------2)
 - [Next.js Has Shipped 29 Security Fixes Since July](https://medium.com/futura-creative/next-js-has-shipped-29-security-fixes-since-july-7f3257371885?source=rss-eafd2a4eaa8d------2)
 - [MS Paint Got a Remote Code Execution Bug in 2026](https://medium.com/futura-creative/ms-paint-got-a-remote-code-execution-bug-in-2026-a5e474ce60f9?source=rss-eafd2a4eaa8d------2)
 - [Crypto Scammers Got Past Discord AutoMod With Pictures, So I Fingerprinted Them](https://medium.com/futura-creative/crypto-scammers-got-past-discord-automod-with-pictures-so-i-fingerprinted-them-6634fc95d4d5?source=rss-eafd2a4eaa8d------2)
-- [The Hosting Company That Died From a Plaintext Password](https://medium.com/futura-creative/the-hosting-company-that-died-from-a-plaintext-password-03dee53564ec?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
