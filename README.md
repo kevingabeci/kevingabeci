@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [AI Is Finding Bugs Faster Than We Can Patch Them](https://medium.com/futura-creative/ai-is-finding-bugs-faster-than-we-can-patch-them-e1695515a809?source=rss-eafd2a4eaa8d------2)
 - [Discord Rewrote Its App in Rust and Used 70% Less RAM. Electron Still Isn’t the Villain.](https://medium.com/futura-creative/discord-rewrote-its-app-in-rust-and-used-70-less-ram-electron-still-isnt-the-villain-64ac8c3eb803?source=rss-eafd2a4eaa8d------2)
 - [Your iPhone Keyboard Has a Secret List of 100,000 Phrases It Won’t Help You Type](https://medium.com/futura-creative/your-iphone-keyboard-has-a-secret-list-of-100-000-phrases-it-wont-help-you-type-f40e75506cb6?source=rss-eafd2a4eaa8d------2)
 - [Your Mac Ships With a Model That Guesses Who Your Family Is](https://medium.com/futura-creative/your-mac-ships-with-a-model-that-guesses-who-your-family-is-49db000e0a09?source=rss-eafd2a4eaa8d------2)
 - [AI Found the PHP Bug That Took Governments Offline](https://medium.com/futura-creative/ai-found-the-php-bug-that-took-governments-offline-712c6e2becbb?source=rss-eafd2a4eaa8d------2)
-- [Claude Code’s “Don’t Ask Again” Saved Passwords in 1,122 Public Repos](https://medium.com/futura-creative/claude-codes-don-t-ask-again-saved-passwords-in-1-122-public-repos-ea72cc4b2ab3?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
