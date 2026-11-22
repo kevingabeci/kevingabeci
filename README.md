@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [I Gave My Life a Second Brain. It Remembers Things I Forget.](https://medium.com/the-take-off/i-gave-my-life-a-second-brain-it-remembers-things-i-forget-6514e671d2da?source=rss-eafd2a4eaa8d------2)
 - [I Number Every Decision I Make. D1, D2, D3.](https://kgabeci.medium.com/i-number-every-decision-i-make-d1-d2-d3-ddf2d5f67bb8?source=rss-eafd2a4eaa8d------2)
 - [Your Side Project Doesn’t Need Users. It Needs One Buyer.](https://medium.com/the-interception/your-side-project-doesnt-need-users-it-needs-one-buyer-499af8912608?source=rss-eafd2a4eaa8d------2)
 - [An AI Edited 0.016% of Another AI’s Weights and Its Math Score Went From 8% to 48%](https://kgabeci.medium.com/an-ai-edited-0-016-of-another-ais-weights-and-its-math-score-went-from-8-to-48-11edc9d62c6e?source=rss-eafd2a4eaa8d------2)
 - [A Cheap Model That Knows When to Ask Opus Got Opus Accuracy for a Quarter of the Price](https://medium.com/futura-creative/a-cheap-model-that-knows-when-to-ask-opus-got-opus-accuracy-for-a-quarter-of-the-price-a97d67a0edd8?source=rss-eafd2a4eaa8d------2)
-- [AI Is Finding Bugs Faster Than We Can Patch Them](https://medium.com/futura-creative/ai-is-finding-bugs-faster-than-we-can-patch-them-e1695515a809?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
