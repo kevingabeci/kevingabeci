@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Three Ways to Hide a Clue in Plain Sight, Stolen From Golden Age Mysteries](https://medium.com/investigating-the-wicked/three-ways-to-hide-a-clue-in-plain-sight-stolen-from-golden-age-mysteries-389f82f670c5?source=rss-eafd2a4eaa8d------2)
 - [I Fed an AI Video Enhancer My Worst Phone Clips](https://medium.com/futura-creative/i-fed-an-ai-video-enhancer-my-worst-phone-clips-8eb99e832d03?source=rss-eafd2a4eaa8d------2)
 - [I Built an AI Influencer in BeautyPlus and Tried to Make Her Face Slip](https://medium.com/futura-creative/i-built-an-ai-influencer-in-beautyplus-and-tried-to-make-her-face-slip-14cff2bba6b5?source=rss-eafd2a4eaa8d------2)
 - [What Got Cut When Book One’s First Arc Became a Comic](https://medium.com/investigating-the-wicked/what-got-cut-when-book-ones-first-arc-became-a-comic-2c7d9cafd841?source=rss-eafd2a4eaa8d------2)
 - [I Gave My Life a Second Brain. It Remembers Things I Forget.](https://medium.com/the-take-off/i-gave-my-life-a-second-brain-it-remembers-things-i-forget-6514e671d2da?source=rss-eafd2a4eaa8d------2)
-- [I Number Every Decision I Make. D1, D2, D3.](https://kgabeci.medium.com/i-number-every-decision-i-make-d1-d2-d3-ddf2d5f67bb8?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
