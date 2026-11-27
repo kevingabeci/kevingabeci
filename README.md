@@ -80,11 +80,11 @@ claude mcp add --transport http kevin https://kevingabeci.com/api/mcp
 ## Latest Writing
 
 <!-- BLOG-POST-LIST:START -->
+- [Exact-Match Domains Didn’t Make Anyone 7 Figures in 10 Days](https://medium.com/the-interception/exact-match-domains-didnt-make-anyone-7-figures-in-10-days-5af1c31b051c?source=rss-eafd2a4eaa8d------2)
 - [Turning My Novel Into a Comic Showed Me What Prose Hides](https://medium.com/love-travel-write/turning-my-novel-into-a-comic-showed-me-what-prose-hides-f3e67ede2611?source=rss-eafd2a4eaa8d------2)
 - [Short Chapters Aren’t a TikTok Trick. Dickens Did It.](https://kgabeci.medium.com/short-chapters-arent-a-tiktok-trick-dickens-did-it-edf7cbd9df3b?source=rss-eafd2a4eaa8d------2)
 - [Three Ways to Hide a Clue in Plain Sight, Stolen From Golden Age Mysteries](https://medium.com/investigating-the-wicked/three-ways-to-hide-a-clue-in-plain-sight-stolen-from-golden-age-mysteries-389f82f670c5?source=rss-eafd2a4eaa8d------2)
 - [I Fed an AI Video Enhancer My Worst Phone Clips](https://medium.com/futura-creative/i-fed-an-ai-video-enhancer-my-worst-phone-clips-8eb99e832d03?source=rss-eafd2a4eaa8d------2)
-- [I Built an AI Influencer in BeautyPlus and Tried to Make Her Face Slip](https://medium.com/futura-creative/i-built-an-ai-influencer-in-beautyplus-and-tried-to-make-her-face-slip-14cff2bba6b5?source=rss-eafd2a4eaa8d------2)
 <!-- BLOG-POST-LIST:END -->
 
 More on [Medium](https://medium.com/@kgabeci).
